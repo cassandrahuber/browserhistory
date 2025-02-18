@@ -1,0 +1,17 @@
+h1, h2{
+    font-family: 'Oswald';
+}
+p {
+    font-family: 'Open Sans';
+}
+
+body {
+    color: DarkBlue;
+    margin: 10px, 50px, 10px, 50px;
+    background-color: Ivory;
+}
+
+img {
+    display: inline-block;
+    vertical-align: middle;
+}
